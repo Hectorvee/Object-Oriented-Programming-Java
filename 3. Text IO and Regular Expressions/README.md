@@ -75,7 +75,3 @@ Theme: "Winter Wonderland"
 Lead Pyrotechnician: John-Smith, Contact: 555-012-3456
 Fireworks:
 1. [ID: FW008900] Name: Star Burst, Fuse Length: 2.5 sec, Colour: BLUE
-```
-
-
-```
